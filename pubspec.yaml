@@ -1,6 +1,6 @@
 name: input_forms
 description: A comprehensive Flutter input_forms package providing pre-built, customizable form components for rapid application development. Includes email, password, date picker, and more form fields with built-in validation.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/KANAGARAJ-M/input_forms
 repository: https://github.com/KANAGARAJ-M/input_forms
 issue_tracker: https://github.com/KANAGARAJ-M/input_forms/issues
