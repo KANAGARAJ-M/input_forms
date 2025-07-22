@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Input Forms Package
+# 🎯 Input Forms [Flutter Package]
 
 [![pub package](https://img.shields.io/pub/v/input_forms.svg?label=pub&color=blue)](https://pub.dev/packages/input_forms)
 <!-- [![Build Status](https://img.shields.io/github/actions/workflow/status/KANAGARAJ-M/input_forms/build.yml?branch=main&label=build&logo=github)](https://github.com/KANAGARAJ-M/input_forms/actions) -->
@@ -167,7 +167,6 @@ We love contributions! Here's how you can help:
 2. 🎯 **Missing a Feature?** Request it!
 3. 🎨 **Want to Contribute?** Submit a pull request!
 
-Check out our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ## 📊 Project Stats
 
@@ -194,13 +193,13 @@ Copyright (c) 2025 Kanagaraj.M
 
 ## 🔑 Keywords
 
-flutter form builder, material design forms, flutter input validation, flutter form fields, flutter UI components, form validation, input widgets, flutter forms, dart forms, form components, mobile forms, cross-platform forms, form validation package, input fields, form elements
+flutter form builder, material design forms, flutter input validation, flutter form fields, flutter UI components, form validation, input widgets, flutter forms, dart forms, form components, mobile forms, cross-platform forms, form validation package, input fields, form elements, input forms, form fields, input fields
 
 ---
 
 <div align="center">
 
-Made with ❤️ by [Kanagaraj.M](https://github.com/KANAGARAJ-M)
+Made with ❤️ by [Kanagaraj.M](https://github.com/KANAGARAJ-M) | [NoCorps](https://nocorps.org/)
 
 ⭐️ Star us on GitHub — it motivates us a lot!
 
