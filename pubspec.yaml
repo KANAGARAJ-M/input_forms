@@ -1,0 +1,70 @@
+name: input_forms
+description: A comprehensive Flutter input_forms package providing pre-built, customizable form components for rapid application development. Includes email, password, date picker, and more form fields with built-in validation.
+version: 0.0.1
+homepage: https://github.com/KANAGARAJ-M/input_forms
+repository: https://github.com/KANAGARAJ-M/input_forms
+issue_tracker: https://github.com/KANAGARAJ-M/input_forms/issues
+documentation: https://pub.dev/documentation/input_forms/latest/
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # For date formatting
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # For static analysis
+  flutter_lints: ^2.0.3
+  # For testing
+  mocktail: ^1.0.0
+  # For coverage reporting
+  coverage: ^1.6.3
+
+flutter:
+  # No assets or fonts currently used
+
+topics:
+  - forms
+  - widgets
+  - validation
+  - material-design
+  - input-fields
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
+funding:
+  - https://github.com/sponsors/KANAGARAJ-M
+
+# screenshots:
+#   - description: 'Email field with validation'
+#     path: screenshots/email_field.png
+#   - description: 'Password field with visibility toggle'
+#     path: screenshots/password_field.png
+#   - description: 'Date picker field'
+#     path: screenshots/date_picker.png
+#   - description: 'Dropdown field'
+#     path: screenshots/dropdown_field.png
+
+# Package metadata
+maintainer: KANAGARAJ-M | kanagarajm638@gmail.com
+
+# Additional package information
+# publish_to: https://pub.dev
+
+# Dependencies example comments
+# intl: For date formatting and localization
+# mocktail: For mocking in tests
+# flutter_lints: For static code analysis
+# coverage: For test coverage reporting
